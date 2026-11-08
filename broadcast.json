@@ -1,8 +1,6 @@
 {
   "active": true,
-  "type": "PROMO",
-  "title": "🎉 Tes Promo Pertama KIM.NET!",
-  "message": "Halo! Ini adalah tes pengumuman promo dari GitHub. Klik tombol di bawah untuk klaim!",
-  "button_text": "💬 Klaim Promo via WA",
-  "action_url": "https://wa.me/6285111034646?text=Saya%20mau%20klaim%20promo"
+  "type": "MAINTENANCE",
+  "title": "⚠️ Perbaikan Jaringan Terpusat",
+  "message": "Pelanggan Yth, sedang ada perbaikan kabel jaringan dari jam 01.00 - 03.00 WIB."
 }
