@@ -1,6 +1,9 @@
 {
   "active": true,
-  "type": "MAINTENANCE",
-  "title": "⚠️ Perbaikan Jaringan Terpusat",
-  "message": "Pelanggan Yth, sedang ada perbaikan kabel jaringan dari jam 01.00 - 03.00 WIB."
+  "type": "PROMO",
+  "title": "🎉 Promo Spesial Upgrade Speed!",
+  "message": "Lihat brosur promo terbaru kami pada gambar di atas! Klik tombol di bawah untuk klaim.",
+  "image_url": "https://raw.githubusercontent.com/sambacftk/app/main/favicon1.png",
+  "button_text": "💬 Klaim Promo via WA",
+  "action_url": "https://wa.me/6285111034646?text=Saya%20mau%20klaim%20promo"
 }
