@@ -1,9 +1,1 @@
-{
-  "active": true,
-  "type": "PROMO",
-  "title": "🎉 Promo Spesial Upgrade Speed!",
-  "message": "Lihat brosur promo terbaru kami pada gambar di atas! Klik tombol di bawah untuk klaim.",
-  "image_url": "https://raw.githubusercontent.com/sambacftk/app/main/favicon1.png",
-  "button_text": "💬 Klaim Promo via WA",
-  "action_url": "https://wa.me/6285111034646?text=Saya%20mau%20klaim%20promo"
-}
+{"action_url":"https://wa.me/6285111034646?text\u003dSaya%20mau%20klaim%20promo","active":true,"button_text":"💬 Klaim Promo via WA","image_url":"https://raw.githubusercontent.com/sambacftk/app/main/favicon1.png","message":"Lihat brosur promo terbaru kami pada gambar di atas! Klik tombol di bawah untuk klaim.","target_server":"ALL","target_users":["ALL"],"title":"🎉 Promo Spesial Upgrade Speed!","type":"PROMO"}
